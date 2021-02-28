@@ -1,0 +1,43 @@
+.container{
+    text-align-last: center;
+    margin-top: 30px;
+    
+
+    
+    
+}
+
+table{
+    margin: auto;
+    padding-top: 10px;
+}
+
+button{
+    width: 41px;
+    height: 49px;
+    border-radius: 10px;
+}
+
+input{
+    border-radius: 10px;
+    border: solid;
+    height: 30px;
+    text-align-last: left;
+    
+}
+
+.box{
+    display: inline-block;
+    background-color: blueviolet;
+border: solid;
+padding-left: 5px;
+padding-right: 5px;
+padding-bottom:5px;
+border-radius: 28px;
+
+    
+}
+h1{
+    border: solid;
+    border-radius: 16px;
+}
